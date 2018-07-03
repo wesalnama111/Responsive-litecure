@@ -1252,11 +1252,11 @@ margin-right: 20px;
 /* header start */
 .hero-img{
 width:100%;
-
+height: 450px;
 }
 .heros-img{
 width:100%;
-
+height: 450px;
 }
 .custom-container{
 width: 100% !important;
@@ -1290,10 +1290,12 @@ margin-left: 0px;
 .larger-texts{
 font-size: 20px;
 margin-left: 0px;
+margin-top: 0px;
 }
 .larger-text{
 font-size: 20px;
 margin-left: 0px;
+margin-top: 0px;
 }
 /* header end */
 /* menudiv start */
@@ -2032,7 +2034,7 @@ width: 100%;
 }
 .text-container {
 padding: 0px;
-margin: -37px 0px -29px 400px;
+margin: -37px 0px -29px 370px;
 width: 0px !important;
 }
 .txt-area{
